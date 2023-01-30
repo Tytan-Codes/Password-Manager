@@ -1,6 +1,6 @@
 # Password-Manager
 ## IMPORTANT!
-
+### This will not be activly maintained! Their are no bugs at ALL in this script, but on new python updates, i will not be updating it.
 Run these commands to install↓↓↓: 
 
 ```
