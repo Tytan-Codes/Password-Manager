@@ -1,7 +1,7 @@
 # Password-Manager
 ## IMPORTANT!
 
-Run there commands to install↓↓↓: 
+Run these commands to install↓↓↓: 
 
 ```
 git clone https://github.com/Tytan-Codes/Password-Manager.git
